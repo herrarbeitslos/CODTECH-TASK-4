@@ -1,6 +1,6 @@
 # Customer Churn Prediction — End-to-End Data Science Project
 
-**Author:** Kartikay Verma
+Name: Kartikay Verma Company: CODTECH IT SOLUTIONS ID:CTIS9080 Duration: 8 weeks Mentor: Neela santhosh kumar
 
 An end-to-end machine learning project that predicts whether a telecom customer is likely to **churn** (cancel their subscription), deployed as a REST API and web app using **Flask**.
 
